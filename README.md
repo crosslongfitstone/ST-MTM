@@ -4,10 +4,6 @@
 
 ### This repository provides PyTorch implementation of TemproxRec from the paper "ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting"
 
-# Key designs
-
-
-
 # Requirements
 
 - Python 3.9.0
