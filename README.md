@@ -2,7 +2,7 @@
  ST-MTM (Seasonality-Trend Masked Time-series Model)
 ===============
 
-### This repository provides PyTorch implementation of TemproxRec from the paper "ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting"
+### This repository provides PyTorch implementation of ST-MTM from the paper "ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting"
 
 # Requirements
 
