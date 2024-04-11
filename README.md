@@ -4,6 +4,14 @@
 
 ### This repository provides PyTorch implementation of ST-MTM from the paper "ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting"
 
+
+# Response to Reviewer cjey
+
+Responding to the comment of Reviewer cjey that requests the information of notations and functions, we upload the table summarizing frequently used notations in the manuscript. We will upload this table in Section 3 of the revised manuscript.
+
+![table_notation](https://github.com/crosslongfitstone/ST-MTM/blob/9d7ee73ced31ef8129abf24a7da746a44dcd5440/Table_notations.PNG)
+
+
 # Requirements
 
 - Python 3.9.0
@@ -56,9 +64,4 @@ To implement pre-training and fine-tuning sequentially, the scripts in `./script
 
     bash scripts/run_electricity.sh
 
-# Response to Reviewer cjey
-
-Responding to the comment of Reviewer cjey that requests the information of notations and functions, we upload the table summarizing frequently used notations in the manuscript. We will upload this table in Section 3 of the revised manuscript.
-
-![table_notation](https://github.com/crosslongfitstone/ST-MTM/blob/9d7ee73ced31ef8129abf24a7da746a44dcd5440/Table_notations.PNG)
 
