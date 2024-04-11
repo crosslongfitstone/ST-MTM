@@ -58,7 +58,7 @@ To implement pre-training and fine-tuning sequentially, the scripts in `./script
 
 # Response to Reviewer cjey
 
-Responding to the comment of Reviewer cjey that requests the information of notations and functions, we upload the table summarizing frequently used notations in the manuscript.
+Responding to the comment of Reviewer cjey that requests the information of notations and functions, we upload the table summarizing frequently used notations in the manuscript. We will upload this table in Section 3 of the revised manuscript.
 
-
+![table_notation](https://github.com/crosslongfitstone/ST-MTM/blob/9d7ee73ced31ef8129abf24a7da746a44dcd5440/Table_notations.PNG)
 
