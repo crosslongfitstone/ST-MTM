@@ -56,6 +56,9 @@ To implement pre-training and fine-tuning sequentially, the scripts in `./script
 
     bash scripts/run_electricity.sh
 
+# Response to Reviewer cjey
+
+Responding to the comment of Reviewer cjey that requests the information of notations and functions, we upload the table summarizing frequently used notations in the manuscript.
 
 
 
