@@ -7,47 +7,47 @@
 # Tables for response to reviewers
 We provide the experimental results requested by reviewers. The extended experiments and analyses will be updated in the revised manuscript. We look forward to any further comments and questions.
 
-### Table 1. Comparative evaluation with state-of-the-art MTM methods on Exchange and PEMS08 datasets
+### 1. Comparative evaluation with state-of-the-art MTM methods on Exchange and PEMS08 datasets
 <p align="center">
   <img src=https://github.com/crosslongfitstone/ST-MTM/assets/159516581/2cc8a5ed-3e26-47a0-b02c-6fa67192b641>
 </p>
 
-### Table 2. Running time analysis at training phases on ETTh1 (seconds)
+### 2. Running time analysis at training phases on ETTh1 (seconds)
 <p align="center">
   <img src=https://github.com/crosslongfitstone/ST-MTM/assets/159516581/c9fa1f65-8bdd-4261-93ac-7e0a114dc3fd>
 </p>
 
-### Table 3. Frequently used notations
+### 3. Frequently used notations
 <p align="center">
   <img src=https://github.com/crosslongfitstone/ST-MTM/assets/159516581/13859073-0c29-4bfe-a3e3-54e3a23712a0>
 </p>
 
-### Table 4. Comparative evaluation with SCNN on ETTh1 and ETTh2 datasets
+### 4. Comparative evaluation with SCNN on ETTh1 and ETTh2 datasets
 <p align="center">
   <img src=https://github.com/crosslongfitstone/ST-MTM/assets/159516581/d5d6e3a0-1250-4595-b104-c0dbfdfad39d>
 </p>
 
-### Table 5. Sensitivity analysis on sub-series length on ETTh1 and ETTh2 datasets
+### 5. Sensitivity analysis on sub-series length on ETTh1 and ETTh2 datasets
 <p align="center">
   <img src=https://github.com/crosslongfitstone/ST-MTM/assets/159516581/706d5242-da16-4048-9522-ec7a3d354c59>
 </p>
 
-### Table 6. Sensitivity analysis on batch size on ETTh1 and ETTh2 datasets
+### 6. Sensitivity analysis on batch size on ETTh1 and ETTh2 datasets
 <p align="center">
   <img src=https://github.com/crosslongfitstone/ST-MTM/assets/159516581/42451519-5b52-4eee-aa2f-0e3e14aaf447>
 </p>
 
-### Table 7. Sensitivity analysis on temperature on ETTh1 and ETTh2 datasets
+### 7. Sensitivity analysis on temperature on ETTh1 and ETTh2 datasets
 <p align="center">
   <img src=https://github.com/crosslongfitstone/ST-MTM/assets/159516581/9102f8d3-1dfc-4179-b921-fa2218bff079>
 </p>
 
-### Table 8. Comparative evaluation with state-of-the-art MTM methods and naive forecasts on Exchange dataset
+### 8. Comparative evaluation with state-of-the-art MTM methods and naive forecasts on Exchange dataset
 <p align="center">
   <img src=https://github.com/crosslongfitstone/ST-MTM/assets/159516581/9a6926bf-ba13-4d4f-8e7a-5ad176bd33b2, width = "70%" height = "70%">
 </p>
 
-### Table 9. Comparative evaluation with PatchTST at L=512 on ETTh2 dataset
+### 9. Comparative evaluation with PatchTST at L=512 on ETTh2 dataset
 <p align="center">
   <img src=https://github.com/crosslongfitstone/ST-MTM/assets/159516581/01388f10-c04f-4961-ac94-489620d7a69f, width = "60%" height = "60%"> 
 </p>
