@@ -27,7 +27,7 @@ We provide the experimental results requested by reviewers. The extended experim
   <img src=https://github.com/crosslongfitstone/ST-MTM/assets/159516581/d5d6e3a0-1250-4595-b104-c0dbfdfad39d>
 </p>
 
-### Table 5. Sensitivity analsis on sub-series length on ETTh1 and ETTh2 datasets
+### Table 5. Sensitivity analysis on sub-series length on ETTh1 and ETTh2 datasets
 <p align="center">
   <img src=https://github.com/crosslongfitstone/ST-MTM/assets/159516581/706d5242-da16-4048-9522-ec7a3d354c59>
 </p>
